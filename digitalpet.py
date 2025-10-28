@@ -1,5 +1,4 @@
 import sys
-import threading
 
 current_energy = 0
 EDR, MEL, IEL = 1, 15, 5
